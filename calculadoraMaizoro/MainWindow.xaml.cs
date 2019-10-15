@@ -33,6 +33,8 @@ namespace calculadoraMaizoro
                 resta();
 			Console.WriteLine("Hola1");
 			Console.WriteLine("Hola2");
+			Console.WriteLine("Hola5");
+			Console.WriteLine("Hola6");
         }
 
         public void suma() {
